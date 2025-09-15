@@ -1,7 +1,7 @@
 ## Juseok's Study Git
 
 ### Main Programming Languege : C
-### Study Programming Languege : Java, Js, HTML, CSS, Python, C++, C#
+### Study Programming Languege : C#, C++, react, python
 
 ### everyWeek Upload Baekjoon or Programmers learning code
 
@@ -10,11 +10,7 @@
 
 | Languege | Week |
 |----------|------|
-| C | First Week |
-| C++, C# | Second Week |
-| Java, Python | Third Week |
-| HTML, CSS, JS | Fourth Week |
-<!--
+
 **JuseokOh0907/JuseokOh0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
